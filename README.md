@@ -1,6 +1,6 @@
 # parchposey
 
-This package contains data about Parch and Posey, a fictional paper-selling company. The company has 
+This package contains data about Parch and Posey, a fictional paper-selling company used in the Bertelsmann Data Science Scholarship Program and provided by [Mode Analytics](https://modeanalytics.com/). The company has 
 50 sales reps across four regions in the United States.
 This package provides the following data tables.
 
