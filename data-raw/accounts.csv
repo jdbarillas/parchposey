@@ -1,0 +1,352 @@
+id,name,website,lat,long,primary_poc,sales_rep_id
+1001.0,Walmart,www.walmart.com,48.871632,-103.3255778,Tamara Tuma  ,321500.0
+1011.0,Exxon Mobil,www.exxonmobil.com,48.871632,-103.3255778,Sung Shields  ,321510.0
+1021.0,Apple,www.apple.com,48.83299483,-102.5287273,Jodee Lupo  ,321520.0
+1031.0,Berkshire Hathaway,www.berkshirehathaway.com,48.79904533,-118.399775,Serafina Banda  ,321530.0
+1041.0,McKesson,www.mckesson.com,48.78231411,-95.81781633,Angeles Crusoe  ,321540.0
+1051.0,UnitedHealth Group,www.unitedhealthgroup.com,48.77516543,-111.6841356,Savanna Gayman  ,321550.0
+1061.0,CVS Health,www.cvshealth.com,48.76275342,-97.55776842,Anabel Haskell  ,321560.0
+1071.0,General Motors,www.gm.com,48.871632,-103.3255778,Barrie Omeara  ,321570.0
+1081.0,Ford Motor,www.ford.com,48.83299483,-102.5287273,Kym Hagerman  ,321580.0
+1091.0,AT&T,www.att.com,48.79904533,-118.399775,Jamel Mosqueda  ,321590.0
+1101.0,General Electric,www.ge.com,48.78231411,-95.81781633,Parker Hoggan  ,321600.0
+1111.0,AmerisourceBergen,www.amerisourcebergen.com,48.77516543,-111.6841356,Tuan Trainer  ,321610.0
+1121.0,Verizon,www.verizon.com,48.76275342,-97.55776842,Chantell Drescher  ,321620.0
+1131.0,Chevron,www.chevron.com,48.7487126,-96.8359255,Paige Bartos  ,321630.0
+1141.0,Costco,www.costco.com,48.7412212,-116.4178416,Dominique Favela  ,321640.0
+1151.0,Fannie Mae,www.fanniemae.com,48.70141678,-104.5235512,Terrilyn Kesler  ,321650.0
+1161.0,Kroger,www.thekrogerco.com,48.60112071,-115.3168613,Nannie Brinkman  ,321660.0
+1171.0,Amazon.com,www.amazon.com,48.54870325,-111.1854348,Buffy Azure  ,321670.0
+1181.0,Walgreens Boots Alliance,www.walgreensbootsalliance.com,48.52718067,-117.309281,Esta Engelhardt  ,321680.0
+1191.0,HP,www.hp.com,48.44337705,-119.6476043,Khadijah Riemann  ,321690.0
+1201.0,Cardinal Health,www.cardinal.com,48.41996136,-106.4218871,Deanne Hertlein  ,321700.0
+1211.0,Express Scripts Holding,www.express-scripts.com,48.34910658,-97.722195,Jewell Likes  ,321500.0
+1221.0,J.P. Morgan Chase,www.jpmorganchase.com,48.3123126,-98.7040032,Florentino Madrigal  ,321510.0
+1231.0,Boeing,www.boeing.com,48.29694756,-116.6208583,Melva Lyall  ,321520.0
+1241.0,Microsoft,www.microsoft.com,48.289588,-117.8890974,Dennise Hungate  ,321530.0
+1251.0,Bank of America Corp.,www.bankofamerica.com,48.23653335,-101.5317849,Janise Voth  ,321540.0
+1261.0,Wells Fargo,www.wellsfargo.com,48.22529625,-104.7741643,Lakenya Volker  ,321550.0
+1271.0,Home Depot,www.homedepot.com,48.17561777,-100.6453878,Alexandria Zielke  ,321560.0
+1281.0,Citigroup,www.citigroup.com,48.13259129,-122.563718,Bea Sera  ,321570.0
+1291.0,Phillips 66,www.phillips66.com,48.10509992,-99.30900475,Maria Garibay  ,321580.0
+1301.0,IBM,www.ibm.com,47.94211432,-97.44176768,Denis Gros  ,321590.0
+1311.0,Valero Energy,www.valero.com,47.92621415,-122.0211906,Taylor Capone  ,321600.0
+1321.0,Anthem,www.antheminc.com,47.86900857,-94.87136886,Hanh Oram  ,321610.0
+1331.0,Procter & Gamble,www.pg.com,47.85041683,-112.1229283,Cordia Winters  ,321620.0
+1341.0,State Farm Insurance Cos.,www.statefarm.com,47.75683257,-103.3139289,Dionne Hensel  ,321630.0
+1351.0,Alphabet,www.google.com,47.74301141,-96.35440859,Pamula Hammel  ,321640.0
+1361.0,Comcast,www.comcastcorporation.com,47.72596607,-116.7287046,Shana Sanborn  ,321650.0
+1371.0,Target,www.target.com,47.69038279,-120.3658719,Luba Streett  ,321660.0
+1381.0,Johnson & Johnson,www.jnj.com,47.65467261,-117.3833189,Genevieve Fenton  ,321670.0
+1391.0,MetLife,www.metlife.com,47.62692917,-114.1927916,Faustino Henshaw  ,321680.0
+1401.0,Archer Daniels Midland,www.adm.com,47.602796,-119.9351733,Fay Rogowski  ,321690.0
+1411.0,Marathon Petroleum,www.marathonpetroleum.com,47.57037338,-101.1367422,Emmitt Mcnab  ,321700.0
+1421.0,Freddie Mac,www.freddiemac.com,47.55827022,-99.65238578,Elayne Grunewald  ,321500.0
+1431.0,PepsiCo,www.pepsico.com,47.48007867,-121.8964293,Cathleen Delamater  ,321510.0
+1441.0,United Technologies,www.utc.com,47.46978342,-115.9493246,Janett Wisecarver  ,321520.0
+1451.0,Aetna,www.aetna.com,47.436774,-97.74708775,Noah Melugin  ,321530.0
+1461.0,Lowe’s,www.lowes.com,47.400979,-111.3742663,Roselee Pardini  ,321540.0
+1471.0,UPS,www.ups.com,47.395458,-93.55779392,Cedrick Weiss  ,321550.0
+1481.0,AIG,www.aig.com,47.3799673,-92.41871857,Aja Sandusky  ,321560.0
+1491.0,Prudential Financial,www.prudential.com,47.351352,-88.25944725,Lyda Lamarr  ,321570.0
+1501.0,Intel,www.intel.com,47.323376,-101.7988908,Elouise Beyers  ,321580.0
+1511.0,Humana,www.humana.com,47.29846056,-119.3877408,Bettye Close  ,321590.0
+1521.0,Disney,www.disney.com,47.280657,-95.87444875,Timika Mistretta  ,321600.0
+1531.0,Cisco Systems,www.cisco.com,47.23039045,-109.3618652,Deadra Waggener  ,321610.0
+1541.0,Pfizer,www.pfizer.com,48.871632,-103.3255778,Olevia Taubman  ,321620.0
+1551.0,Dow Chemical,www.dow.com,48.83299483,-102.5287273,Lillia Ogden  ,321630.0
+1561.0,Sysco,www.sysco.com,48.79904533,-118.399775,Julia Laracuente  ,321640.0
+1571.0,FedEx,www.fedex.com,48.78231411,-95.81781633,Keren Mcconn  ,321650.0
+1581.0,Caterpillar,www.caterpillar.com,48.77516543,-111.6841356,Latia Beene  ,321660.0
+1591.0,Lockheed Martin,www.lockheedmartin.com,48.76275342,-97.55776842,Jared Aikins  ,321670.0
+1601.0,New York Life Insurance,www.newyorklife.com,48.7487126,-96.8359255,Arlyne Mauzy  ,321680.0
+1611.0,Coca-Cola,www.coca-colacompany.com,48.7412212,-116.4178416,Tisha Coletti  ,321690.0
+1621.0,HCA Holdings,www.hcahealthcare.com,48.70141678,-104.5235512,Hubert Blanch  ,321700.0
+1631.0,Ingram Micro,www.ingrammicro.com,48.60112071,-115.3168613,Chanelle Keach  ,321500.0
+1641.0,Energy Transfer Equity,www.energytransfer.com,48.54870325,-111.1854348,Wynell Lepore  ,321510.0
+1651.0,Tyson Foods,www.tysonfoods.com,48.52718067,-117.309281,Ardelle Khoury  ,321520.0
+1661.0,American Airlines Group,www.aa.com,48.44337705,-119.6476043,Sasha Haughey  ,321500.0
+1671.0,Delta Air Lines,www.delta.com,48.41996136,-106.4218871,Enola Thoms  ,321510.0
+1681.0,Nationwide,www.nationwide.com,48.34910658,-97.722195,Henriette Dawes  ,321520.0
+1691.0,Johnson Controls,www.johnsoncontrols.com,48.3123126,-98.7040032,Cammy Sosnowski  ,321500.0
+1701.0,Best Buy,www.bestbuy.com,48.29694756,-116.6208583,Laurette Sakai  ,321510.0
+1711.0,Merck,www.merck.com,48.289588,-117.8890974,Willodean Steinberger  ,321520.0
+1721.0,Liberty Mutual Insurance Group,www.libertymutual.com,48.23653335,-101.5317849,Maranda Papas  ,321680.0
+1731.0,Goldman Sachs Group,www.gs.com,48.22529625,-104.7741643,Loris Manfredi  ,321690.0
+1741.0,Honeywell International,www.honeywell.com,48.17561777,-100.6453878,Jeanne Harty  ,321700.0
+1751.0,Massachusetts Mutual Life Insurance,www.massmutual.com,48.13259129,-122.563718,Cassey Hewey  ,321680.0
+1761.0,Oracle,www.oracle.com,48.10509992,-99.30900475,Antonia Parkhurst  ,321690.0
+1771.0,Morgan Stanley,www.morganstanley.com,47.94211432,-97.44176768,Elvia Snipes  ,321700.0
+1781.0,Cigna,www.cigna.com,47.92621415,-122.0211906,Kandi Mailloux  ,321630.0
+1791.0,United Continental Holdings,www.unitedcontinentalholdings.com,47.86900857,-94.87136886,Diedra Crossman  ,321640.0
+1801.0,Allstate,www.allstate.com,47.85041683,-112.1229283,Latesha Garcia  ,321630.0
+1811.0,TIAA,www.tiaa.org,47.75683257,-103.3139289,Deeanna Burpo  ,321640.0
+1821.0,INTL FCStone,www.intlfcstone.com,47.74301141,-96.35440859,Ericka Hamid  ,321630.0
+1831.0,CHS,www.chsinc.com,47.72596607,-116.7287046,Sheilah Truss  ,321640.0
+1841.0,American Express,www.americanexpress.com,47.69038279,-120.3658719,Horacio Weidman  ,321630.0
+1851.0,Gilead Sciences,www.gilead.com,47.65467261,-117.3833189,Nickie Moulden  ,321640.0
+1861.0,Publix Super Markets,www.publix.com,47.62692917,-114.1927916,Cherri Sienkiewicz  ,321630.0
+1871.0,General Dynamics,www.generaldynamics.com,47.602796,-119.9351733,Erin Viverette  ,321640.0
+1881.0,TJX,www.tjx.com,47.57037338,-101.1367422,Sheryl Diamond  ,321580.0
+1891.0,ConocoPhillips,www.conocophillips.com,47.55827022,-99.65238578,Lisa Rayborn  ,321590.0
+1901.0,Nike,www.nike.com,47.48007867,-121.8964293,Adam Ptacek  ,321580.0
+1911.0,World Fuel Services,www.wfscorp.com,47.46978342,-115.9493246,Kasandra Correa  ,321590.0
+1921.0,3M,www.3m.com,47.436774,-97.74708775,Orville Leavell  ,321580.0
+1931.0,Mondelez International,www.mondelezinternational.com,47.400979,-111.3742663,Vanetta Lerch  ,321590.0
+1941.0,Exelon,www.exeloncorp.com,47.395458,-93.55779392,Leana Godines  ,321560.0
+1951.0,Twenty-First Century Fox,www.21cf.com,47.3799673,-92.41871857,Nichelle Singley  ,321560.0
+1961.0,Deere,www.johndeere.com,47.351352,-88.25944725,Aura Walz  ,321560.0
+1971.0,Tesoro,www.tsocorp.com,47.323376,-101.7988908,Mammie Koff  ,321520.0
+1981.0,Time Warner,www.timewarner.com,47.29846056,-119.3877408,Lakeisha Kridler  ,321530.0
+1991.0,Northwestern Mutual,www.northwesternmutual.com,47.280657,-95.87444875,Cori Byerley  ,321540.0
+2001.0,DuPont,www.dupont.com,47.23039045,-109.3618652,Lucile Pasek  ,321550.0
+2011.0,Avnet,www.avnet.com,47.145874,-101.159363,Tamica Laborde  ,321680.0
+2021.0,Macy’s,www.macysinc.com,47.11449157,-123.816483,Teresita Ashalintubbi  ,321690.0
+2031.0,Enterprise Products Partners,www.enterpriseproducts.com,47.1005466,-110.1540506,Marina Catoe  ,321700.0
+2041.0,Travelers Cos.,www.travelers.com,47.04002117,-94.90550983,Vernie Pound  ,321680.0
+2051.0,Philip Morris International,www.pmi.com,46.995887,-94.33284383,Angla Ingrassia  ,321690.0
+2061.0,Rite Aid,www.riteaid.com,47.04002117,-94.90550983,Celsa Hamsher  ,321710.0
+2071.0,Tech Data,www.techdata.com,47.351352,-88.25944725,Brendan Anzalone  ,321720.0
+2081.0,McDonald’s,www.aboutmcdonalds.com,47.351352,-88.25944725,Alisa Rega  ,321730.0
+2091.0,Qualcomm,www.qualcomm.com,47.46978342,-115.9493246,Torri Northrop  ,321740.0
+2101.0,Sears Holdings,www.searsholdings.com,46.33816175,-111.552835,Hsiu Benedetti  ,321750.0
+2111.0,Capital One Financial,www.capitalone.com,46.4038755,-85.587065,Debby Myers  ,321760.0
+2121.0,EMC,www.emc.com,46.4879644,-94.0939188,Maurice Matsuda  ,321770.0
+2131.0,USAA,www.usaa.com,46.92459821,-100.4726094,Lessie Quijada  ,321780.0
+2141.0,Duke Energy,www.duke-energy.com,47.23039045,-109.3618652,Newton Belmonte  ,321790.0
+2151.0,Time Warner Cable,www.twc.com,46.65042571,-112.7762419,Jeannetta Fowkes  ,321710.0
+2161.0,Halliburton,www.halliburton.com,46.7340556,-88.41639,Domonique Pillow  ,321720.0
+2171.0,Northrop Grumman,www.northropgrumman.com,47.436774,-97.74708775,Nannette Costa  ,321730.0
+2181.0,Arrow Electronics,www.arrow.com,48.77516543,-111.6841356,Craig Mcalpine  ,321740.0
+2191.0,Raytheon,www.raytheon.com,46.995887,-94.33284383,Yun Kleeman  ,321750.0
+2201.0,Plains GP Holdings,www.plainsallamerican.com,47.86900857,-94.87136886,Ethan Penaloza  ,321760.0
+2211.0,US Foods Holding,www.usfoods.com,48.17561777,-100.6453878,Porter Shrout  ,321770.0
+2221.0,AbbVie,www.abbvie.com,46.995887,-94.33284383,Agnus Jenkin  ,321780.0
+2231.0,Centene,www.centene.com,46.465401,-97.616714,Shanika Mariani  ,321790.0
+2241.0,Community Health Systems,www.chs.net,48.79904533,-118.399775,Grazyna Dewald  ,321710.0
+2251.0,Alcoa,www.alcoa.com,46.78818842,-116.7369198,Minna Dehner  ,321720.0
+2261.0,International Paper,www.internationalpaper.com,48.289588,-117.8890974,Nicolasa Housel  ,321730.0
+2271.0,Emerson Electric,www.emerson.com,47.1005466,-110.1540506,Jere Storey  ,321740.0
+2281.0,Union Pacific,www.up.com,47.04002117,-94.90550983,Genesis Schroer  ,321750.0
+2291.0,Amgen,www.amgen.com,46.95911733,-99.7349335,Nigel Mincks  ,321760.0
+2301.0,U.S. Bancorp,www.usbank.com,47.92896675,-98.17436225,Roberto Calender  ,321710.0
+2311.0,Staples,www.staples.com,46.92459821,-100.4726094,Mallory Gosselin  ,321720.0
+2321.0,Danaher,www.danaher.com,48.83299483,-102.5287273,Tressie Halcomb  ,321730.0
+2331.0,Whirlpool,www.whirlpoolcorp.com,48.3123126,-98.7040032,Isreal Shreffler  ,321740.0
+2341.0,Aflac,www.aflac.com,48.289588,-117.8890974,Kellee Suniga  ,321750.0
+2351.0,AutoNation,www.autonation.com,47.145874,-101.159363,Jay Gauger  ,321760.0
+2361.0,Progressive,www.progressive.com,48.29694756,-116.6208583,Catrice Klingbeil  ,321710.0
+2371.0,Abbott Laboratories,www.abbott.com,46.824454,-104.122311,Seymour Olmedo  ,321720.0
+2381.0,Dollar General,www.dollargeneral.com,48.76275342,-97.55776842,Janyce Quarles  ,321730.0
+2391.0,Tenet Healthcare,www.tenethealth.com,48.76275342,-97.55776842,Eufemia Spady  ,321740.0
+2401.0,Eli Lilly,www.lilly.com,47.11449157,-123.816483,Dee Daulton  ,321750.0
+2411.0,Southwest Airlines,www.southwest.com,47.75683257,-103.3139289,Idalia Agosta  ,321760.0
+2421.0,Penske Automotive Group,www.penskeautomotive.com,46.92025838,-95.69714431,Gregorio Schank  ,321770.0
+2431.0,ManpowerGroup,www.manpowergroup.com,46.63175628,-68.49037947,Vivien Gavin  ,321780.0
+2441.0,Kohl’s,www.kohlscorporation.com,46.3934516,-86.7490329,Rico Rison  ,321790.0
+2451.0,Starbucks,www.starbucks.com,46.51287045,-91.87104918,David Trousdale  ,321740.0
+2461.0,Paccar,www.paccar.com,46.87399657,-118.6133384,Love Quirion  ,321750.0
+2471.0,Cummins,www.cummins.com,46.95911733,-99.7349335,Lavonda Geier  ,321760.0
+2481.0,Altria Group,www.altria.com,48.10509992,-99.30900475,Juliet Nugent  ,321740.0
+2491.0,Xerox,www.xerox.com,47.72596607,-116.7287046,Ivory Crockett  ,321750.0
+2501.0,Kimberly-Clark,www.kimberly-clark.com,46.475526,-113.296628,Garfield Levenson  ,321760.0
+2511.0,Hartford Financial Services Group,www.thehartford.com,48.7487126,-96.8359255,Yukiko Nails  ,321760.0
+2521.0,Kraft Heinz,www.kraftheinzcompany.com,47.72596607,-116.7287046,Willard Crenshaw  ,321770.0
+2531.0,Lear,www.lear.com,48.17561777,-100.6453878,Bernadine Stahly  ,321780.0
+2541.0,Fluor,www.fluor.com,45.31806271,-117.9618891,Chas Nagler  ,321800.0
+2551.0,AECOM,www.aecom.com,48.22529625,-104.7741643,Della Arceo  ,321810.0
+2561.0,Facebook,www.facebook.com,45.896978,-91.773787,Jesus Philippi  ,321820.0
+2571.0,Jabil Circuit,www.jabil.com,48.289588,-117.8890974,Claudette Katzman  ,321830.0
+2581.0,CenturyLink,www.centurylink.com,44.84492986,-97.75216457,Christoper Mcghie  ,321840.0
+2591.0,Supervalu,www.supervalu.com,48.83299483,-102.5287273,Kristopher Moton  ,321850.0
+2601.0,General Mills,www.generalmills.com,48.77516543,-111.6841356,Natasha Kopczynski  ,321860.0
+2611.0,Southern,www.southerncompany.com,48.78231411,-95.81781633,Reagan Derouen  ,321870.0
+2621.0,NextEra Energy,www.nexteraenergy.com,46.49977275,-108.195432,Jule Alberti  ,321880.0
+2631.0,Thermo Fisher Scientific,www.thermofisher.com,41.61043569,-85.87203638,Venessa Moreles  ,321890.0
+2641.0,American Electric Power,www.aep.com,47.280657,-95.87444875,Vi Skeeter  ,321800.0
+2651.0,PG&E Corp.,www.pge.com,46.87399657,-118.6133384,Whitney Koga  ,321810.0
+2661.0,NGL Energy Partners,www.nglenergypartners.com,45.8439808,-92.3657726,Staci Alegria  ,321820.0
+2671.0,Bristol-Myers Squibb,www.bms.com,46.306156,-104.407845,Alejandro Taunton  ,321830.0
+2681.0,Goodyear Tire & Rubber,www.goodyear.com,42.52197344,-110.7737968,Jodee Indelicato  ,321840.0
+2691.0,Nucor,www.nucor.com,47.395458,-93.55779392,Maryalice Giltner  ,321850.0
+2701.0,PNC Financial Services Group,www.pnc.com,47.55827022,-99.65238578,Lashaun Lightfoot  ,321860.0
+2711.0,Health Net,www.healthnet.com,48.17561777,-100.6453878,Sabra Bellis  ,321870.0
+2721.0,Micron Technology,www.micron.com,43.7062162,-94.5785603,Kimiko Brasfield  ,321880.0
+2731.0,Colgate-Palmolive,www.colgatepalmolive.com,43.75749867,-113.2518453,Barton Hyatt  ,321890.0
+2741.0,Freeport-McMoRan,www.fcx.com,47.94211432,-97.44176768,Neomi Nishida  ,321800.0
+2751.0,ConAgra Foods,www.conagrafoods.com,47.62692917,-114.1927916,Mireille Worthley  ,321810.0
+2761.0,Gap,www.gapinc.com,46.59781036,-92.65954209,Caprice Hohler  ,321820.0
+2771.0,Baker Hughes,www.bakerhughes.com,48.23653335,-101.5317849,Richelle Borger  ,321830.0
+2781.0,Bank of New York Mellon Corp.,www.bnymellon.com,47.72596607,-116.7287046,Harrison Foss  ,321840.0
+2791.0,Dollar Tree,www.dollartree.com,48.52718067,-117.309281,Georgiana Coniglio  ,321850.0
+2801.0,Whole Foods Market,www.wholefoodsmarket.com,48.289588,-117.8890974,Chauncey Koss  ,321860.0
+2811.0,PPG Industries,www.ppg.com,46.3125558,-101.5964418,Domonique Harvell  ,321870.0
+2821.0,Genuine Parts,www.genpt.com,45.6273755,-90.37891888,Vanetta Castleman  ,321880.0
+2831.0,Icahn Enterprises,www.ielp.com,48.34910658,-97.722195,Lindsay Malbon  ,321890.0
+2841.0,Performance Food Group,www.pfgc.com,47.85041683,-112.1229283,Natividad Pauli  ,321800.0
+2851.0,Omnicom Group,www.omnicomgroup.com,46.2255752,-114.0907852,Yasuko Heffernan  ,321810.0
+2861.0,DISH Network,www.dish.com,44.0092215,-116.4351618,Leana Hawker  ,321820.0
+2871.0,FirstEnergy,www.firstenergycorp.com,46.92025838,-95.69714431,Catherine Bermejo  ,321830.0
+2881.0,Monsanto,www.monsanto.com,46.2710685,-100.858852,Loren Schlanger  ,321840.0
+2891.0,AES,www.aes.com,46.52648917,-116.132742,Maybell Bascombe  ,321850.0
+2901.0,CarMax,www.carmax.com,48.23653335,-101.5317849,Bobbi Rackers  ,321860.0
+2911.0,National Oilwell Varco,www.nov.com,43.67057973,-84.35820482,Brianne Hunger  ,321870.0
+2921.0,NRG Energy,www.nrgenergy.com,46.52648917,-116.132742,Stephanie Balfour  ,321880.0
+2931.0,Western Digital,www.westerndigital.com,45.70663579,-118.7216037,Racquel Andrus  ,321890.0
+2941.0,Marriott International,www.marriott.com,46.95911733,-99.7349335,Chassidy Backhaus  ,321800.0
+2951.0,Office Depot,www.officedepot.com,47.351352,-88.25944725,Daisey Wyss  ,321810.0
+2961.0,Nordstrom,www.nordstrom.com,42.46672973,-92.285328,Yan Crater  ,321820.0
+2971.0,Kinder Morgan,www.kindermorgan.com,48.10509992,-99.30900475,Chantal Laureano  ,321830.0
+2981.0,Aramark,www.aramark.com,46.78818842,-116.7369198,Chelsey Marasco  ,321840.0
+2991.0,DaVita HealthCare Partners,www.davita.com,47.323376,-101.7988908,Ursula Sarinana  ,321850.0
+3001.0,Molina Healthcare,www.molinahealthcare.com,47.85041683,-112.1229283,Hilde Klopfer  ,321860.0
+3011.0,WellCare Health Plans,www.wellcare.com,44.4221425,-98.31915138,Tobi Whiteaker  ,321870.0
+3021.0,CBS,www.cbscorporation.com,44.822195,-73.3030106,Huong Fortino  ,321880.0
+3031.0,Visa,www.visa.com,46.95911733,-99.7349335,Madlyn Brothers  ,321890.0
+3041.0,Lincoln National,www.lfg.com,44.56511775,-92.06462575,Stewart Mcnitt  ,321800.0
+3051.0,Ecolab,www.ecolab.com,48.10509992,-99.30900475,Donnie Ehrhardt  ,321810.0
+3061.0,Kellogg,www.kelloggcompany.com,46.92025838,-95.69714431,Domonique Cave  ,321820.0
+3071.0,C.H. Robinson Worldwide,www.chrobinson.com,45.81441715,-115.9353511,Crissy Cottle  ,321830.0
+3081.0,Textron,www.textron.com,47.323376,-101.7988908,Myrtice Maxon  ,321840.0
+3091.0,Loews,www.loews.com,48.79904533,-118.399775,Melda Ensey  ,321850.0
+3101.0,Illinois Tool Works,www.itw.com,47.395458,-93.55779392,Rosena Jessop  ,321860.0
+3111.0,Synnex,www.synnex.com,47.85041683,-112.1229283,Corey Tobia  ,321870.0
+3121.0,Viacom,www.viacom.com,44.45843425,-88.94241463,Chadwick Fortenberry  ,321880.0
+3131.0,HollyFrontier,www.hollyfrontier.com,46.824454,-104.122311,Maricela Humphries  ,321890.0
+3141.0,Land O’Lakes,www.landolakesinc.com,48.60112071,-115.3168613,Ana Blount  ,321800.0
+3151.0,Devon Energy,www.devonenergy.com,46.51287045,-91.87104918,Kelli Seese  ,321810.0
+3161.0,PBF Energy,www.pbfenergy.com,47.3799673,-92.41871857,Lavonda Hoyle  ,321820.0
+3171.0,Yum Brands,www.yum.com,47.46978342,-115.9493246,Martin Mcgough  ,321830.0
+3181.0,Texas Instruments,www.ti.com,47.145874,-101.159363,Adell Lever  ,321840.0
+3191.0,CDW,www.cdw.com,44.406926,-92.7184097,Jenny Poland  ,321850.0
+3201.0,Waste Management,www.wm.com,44.01069436,-92.40938418,Kip Stringham  ,321860.0
+3211.0,Marsh & McLennan,www.mmc.com,46.65042571,-112.7762419,Shantae Leone  ,321870.0
+3221.0,Chesapeake Energy,www.chk.com,47.55827022,-99.65238578,Teddy Braddock  ,321880.0
+3231.0,Parker-Hannifin,www.parker.com,46.5730515,-94.97293883,Jon Esteban  ,321890.0
+3241.0,Occidental Petroleum,www.oxy.com,46.824454,-104.122311,Chin Coppola  ,321820.0
+3251.0,Guardian Life Ins. Co. of America,www.guardianlife.com,43.32251483,-85.15028111,Trisha Tigner  ,321830.0
+3261.0,Farmers Insurance Exchange,www.farmers.com,45.4193498,-120.7165032,Eloisa Lafuente  ,321840.0
+3271.0,J.C. Penney,www.jcpenney.com,48.60112071,-115.3168613,Ladonna Kouba  ,321850.0
+3281.0,Consolidated Edison,www.conedison.com,47.69038279,-120.3658719,Tamiko Calhoon  ,321860.0
+3291.0,Cognizant Technology Solutions,www.cognizant.com,48.29694756,-116.6208583,Twanda Renninger  ,321820.0
+3301.0,VF,www.vfc.com,47.436774,-97.74708775,Nell Younts  ,321830.0
+3311.0,Ameriprise Financial,www.ameriprise.com,48.79904533,-118.399775,Melody Neuner  ,321840.0
+3321.0,Computer Sciences,www.csc.com,47.55827022,-99.65238578,Lincoln Damewood  ,321850.0
+3331.0,L Brands,www.lb.com,47.602796,-119.9351733,Lisabeth Aitken  ,321860.0
+3341.0,Jacobs Engineering Group,www.jacobs.com,48.13259129,-122.563718,Lurlene Wojtowicz  ,321820.0
+3351.0,Principal Financial,www.principal.com,46.44056163,-98.50329363,Eddie Mcgaughey  ,321830.0
+3361.0,Ross Stores,www.rossstores.com,46.78818842,-116.7369198,Latosha Hollar  ,321840.0
+3371.0,Bed Bath & Beyond,www.bedbathandbeyond.com,46.35689186,-90.287383,Audria Witter  ,321850.0
+3381.0,CSX,www.csx.com,48.17561777,-100.6453878,Shirely Cantara  ,321860.0
+3391.0,Toys “R” Us,www.toysrusinc.com,41.75507645,-81.27791582,Eugena Jerman  ,321820.0
+3401.0,Las Vegas Sands,www.sands.com,45.5314293,-84.9045326,Susy Jantzen  ,321830.0
+3411.0,Leucadia National,www.leucadia.com,46.5730515,-94.97293883,Merrill Rubino  ,321840.0
+3421.0,Dominion Resources,www.dom.com,44.47145475,-89.99640969,Mickey Eversole  ,321850.0
+3431.0,United States Steel,www.ussteel.com,47.74301141,-96.35440859,Josh Deslauriers  ,321800.0
+3441.0,L-3 Communications,www.l-3com.com,45.73150645,-101.0696168,Francine Sealey  ,321810.0
+3451.0,Edison International,www.edisoninvestor.com,47.86900857,-94.87136886,Tamekia Isherwood  ,321800.0
+3461.0,Entergy,www.entergy.com,46.78818842,-116.7369198,Kayleen Orlowski  ,321810.0
+3471.0,ADP,www.adp.com,46.4038755,-85.587065,September Jacquet  ,321800.0
+3481.0,First Data,www.firstdata.com,48.78231411,-95.81781633,Theodore Staten  ,321800.0
+3491.0,BlackRock,www.blackrock.com,46.3934516,-86.7490329,Nam Rothfuss  ,321810.0
+3501.0,WestRock,www.westrock.com,48.83299483,-102.5287273,Isobel Mcdaniel  ,321900.0
+3511.0,Voya Financial,www.voya.com,47.70228389,-115.1327846,Susana Dixion  ,321910.0
+3521.0,Sherwin-Williams,www.sherwin.com,47.74301141,-96.35440859,Cinderella Chaves  ,321920.0
+3531.0,Hilton Worldwide Holdings,www.hiltonworldwide.com,47.69038279,-120.3658719,Rema Skipworth  ,321930.0
+3541.0,R.R. Donnelley & Sons,www.rrdonnelley.com,48.7487126,-96.8359255,Vania Warthen  ,321940.0
+3551.0,Stanley Black & Decker,www.stanleyblackanddecker.com,48.76275342,-97.55776842,Davida Woldt  ,321950.0
+3561.0,Xcel Energy,www.xcelenergy.com,48.3123126,-98.7040032,Annetta Claytor  ,321960.0
+3571.0,Murphy USA,corporate.murphyusa.com,48.7487126,-96.8359255,Tyree Folden  ,321970.0
+3581.0,CBRE Group,www.cbre.com,47.65467261,-117.3833189,Martina Haas  ,321980.0
+3591.0,D.R. Horton,www.drhorton.com,47.46978342,-115.9493246,Rhoda Holtsclaw  ,321990.0
+3601.0,Estee Lauder,www.elcompanies.com,47.55827022,-99.65238578,Grover Chamblee  ,321900.0
+3611.0,Praxair,www.praxair.com,48.44337705,-119.6476043,Lelah Lamothe  ,321910.0
+3621.0,Biogen,www.biogen.com,48.34910658,-97.722195,Annalisa Butt  ,321920.0
+3631.0,State Street Corp.,www.statestreet.com,47.436774,-97.74708775,Viva Jarrells  ,321930.0
+3641.0,Unum Group,www.unum.com,48.54870325,-111.1854348,Spring Hedstrom  ,321940.0
+3651.0,Reynolds American,www.reynoldsamerican.com,48.60112071,-115.3168613,Adelia Weston  ,321950.0
+3661.0,Group 1 Automotive,www.group1auto.com,48.83299483,-102.5287273,Devona Denison  ,321960.0
+3671.0,Henry Schein,www.henryschein.com,48.77516543,-111.6841356,Forrest Brodeur  ,321970.0
+3681.0,Hertz Global Holdings,www.hertz.com,48.13259129,-122.563718,Caitlyn Claycomb  ,321980.0
+3691.0,Norfolk Southern,www.nscorp.com,47.400979,-111.3742663,Leia Vargas  ,321990.0
+3701.0,Reinsurance Group of America,www.rgare.com,47.65467261,-117.3833189,Isaac Demery  ,321900.0
+3711.0,Public Service Enterprise Group,www.pseg.com,48.77516543,-111.6841356,Darrel Macintosh  ,321910.0
+3721.0,BB&T Corp.,www.bbt.com,48.44337705,-119.6476043,Scot Feagin  ,321920.0
+3731.0,DTE Energy,www.dteenergy.com,48.60112071,-115.3168613,Nita Mingle  ,321930.0
+3741.0,Assurant,www.assurant.com,48.83299483,-102.5287273,Candi Vanleer  ,321940.0
+3751.0,Global Partners,www.globalp.com,48.7487126,-96.8359255,Jordan Fils  ,321950.0
+3761.0,Huntsman,www.huntsman.com,48.52718067,-117.309281,Elmo Burstein  ,321960.0
+3771.0,Becton Dickinson,www.bd.com,48.70141678,-104.5235512,Dagmar Pangle  ,321970.0
+3781.0,Sempra Energy,www.sempra.com,47.85041683,-112.1229283,Isidra Thieme  ,321980.0
+3791.0,AutoZone,www.autozone.com,48.871632,-103.3255778,Maryellen Strohmeyer  ,321990.0
+3801.0,Navistar International,www.navistar.com,48.13259129,-122.563718,Mauricio Croce  ,321900.0
+3811.0,Precision Castparts,www.precast.com,48.83299483,-102.5287273,Louis Whitted  ,321910.0
+3821.0,Discover Financial Services,www.discoverfinancial.com,45.97365882,-106.8039232,Lauryn Hogge  ,321920.0
+3831.0,Liberty Interactive,www.libertyinteractive.com,48.41996136,-106.4218871,Melissa Hacker  ,321930.0
+3841.0,W.W. Grainger,www.grainger.com,47.23039045,-109.3618652,Marina Summitt  ,321940.0
+3851.0,Baxter International,www.baxter.com,47.087847,-108.2019515,Darren Villafana  ,321950.0
+3861.0,Stryker,www.stryker.com,48.79904533,-118.399775,Marivel Keeley  ,321960.0
+3871.0,Air Products & Chemicals,www.airproducts.com,48.54870325,-111.1854348,Delphia Jamerson  ,321970.0
+3881.0,Western Refining,www.wnr.com,48.22529625,-104.7741643,Delora Musson  ,321980.0
+3891.0,Universal Health Services,www.uhsinc.com,48.13259129,-122.563718,Tasha Delillo  ,321990.0
+3901.0,Owens & Minor,www.owens-minor.com,48.29694756,-116.6208583,Emogene Howarth  ,321900.0
+3911.0,Charter Communications,www.charter.com,48.76275342,-97.55776842,Natacha Rita  ,321910.0
+3921.0,Advance Auto Parts,www.advanceautoparts.com,48.17561777,-100.6453878,Maxwell Vandergriff  ,321920.0
+3931.0,MasterCard,www.mastercard.com,47.57037338,-101.1367422,Lea Quillen  ,321930.0
+3941.0,Applied Materials,www.appliedmaterials.com,48.23653335,-101.5317849,Myung Gomes  ,321940.0
+3951.0,Eastman Chemical,www.eastman.com,48.3123126,-98.7040032,Mistie Martines  ,321950.0
+3961.0,Sonic Automotive,www.sonicautomotive.com,46.3934516,-86.7490329,Keena Caffrey  ,321960.0
+3971.0,Ally Financial,www.ally.com,47.62692917,-114.1927916,Elodia Olague  ,321970.0
+3981.0,CST Brands,www.cstbrands.com,47.323376,-101.7988908,Shasta Rodas  ,321980.0
+3991.0,eBay,www.ebay.com,47.72596607,-116.7287046,Monet Maclaren  ,321990.0
+4001.0,Lennar,www.lennar.com,48.70141678,-104.5235512,Sherell Yankey  ,321900.0
+4011.0,GameStop,www.gamestopcorp.com,47.86900857,-94.87136886,Sage Battiste  ,321910.0
+4021.0,Reliance Steel & Aluminum,www.rsac.com,48.33549482,-96.63541864,Terrance Kimzey  ,321920.0
+4031.0,Hormel Foods,www.hormelfoods.com,48.52718067,-117.309281,Keturah Cuadrado  ,321930.0
+4041.0,Celgene,www.celgene.com,46.48603115,-87.65968769,Carisa Tinajero  ,321940.0
+4051.0,Genworth Financial,www.genworth.com,47.46978342,-115.9493246,Tangela Vahle  ,321950.0
+4061.0,PayPal Holdings,www.paypal.com,48.70141678,-104.5235512,Birgit Lacasse  ,321960.0
+4071.0,Priceline Group,www.pricelinegroup.com,47.94211432,-97.44176768,Dominick Yearwood  ,321970.0
+4081.0,MGM Resorts International,www.mgmresorts.com,48.7412212,-116.4178416,Glennis Vann  ,321980.0
+4091.0,Autoliv,www.autoliv.com,47.75683257,-103.3139289,Nia Waldeck  ,321990.0
+4101.0,Fidelity National Financial,www.fnf.com,48.78231411,-95.81781633,Tegan Metzgar  ,321900.0
+4111.0,Republic Services,www.republicservices.com,48.41996136,-106.4218871,Gail Widmer  ,321910.0
+4121.0,Corning,www.corning.com,48.44337705,-119.6476043,Chad Winer  ,321920.0
+4131.0,Peter Kiewit Sons’,www.kiewit.com,48.77516543,-111.6841356,Haley Klos  ,321930.0
+4141.0,Univar,www.univar.com,48.871632,-103.3255778,Sterling Tarlton  ,321940.0
+4151.0,Mosaic,www.mosaicco.com,48.7487126,-96.8359255,Lorette Blasi  ,321950.0
+4161.0,Core-Mark Holding,www.core-mark.com,47.85041683,-112.1229283,Marita Demasi  ,321960.0
+4171.0,Thrivent Financial for Lutherans,www.thrivent.com,47.65467261,-117.3833189,Janyce Mun  ,321970.0
+4181.0,Cameron International,www.c-a-m.com,48.7412212,-116.4178416,Antwan Seagraves  ,321980.0
+4191.0,HD Supply Holdings,www.hdsupply.com,48.54870325,-111.1854348,Stephnie Mccrum  ,321990.0
+4201.0,Crown Holdings,www.crowncork.com,48.79904533,-118.399775,Jung Soden  ,321930.0
+4211.0,EOG Resources,www.eogresources.com,48.52718067,-117.309281,Alida Desrosier  ,321940.0
+4221.0,Veritiv,www.veritivcorp.com,48.29694756,-116.6208583,Karren Dively  ,321950.0
+4231.0,Anadarko Petroleum,www.anadarko.com,48.79904533,-118.399775,Lacey Kight  ,321970.0
+4241.0,Laboratory Corp. of America,www.labcorp.com,47.86900857,-94.87136886,Domenic Mally  ,321980.0
+4251.0,Pacific Life,www.pacificlife.com,48.7487126,-96.8359255,Kyoko Randall  ,321990.0
+4261.0,News Corp.,www.newscorp.com,48.77516543,-111.6841356,Sharie Sanborn  ,321960.0
+4271.0,Jarden,www.jarden.com,47.74301141,-96.35440859,Chantal Dahmen  ,321970.0
+4281.0,SunTrust Banks,www.suntrust.com,47.29846056,-119.3877408,Monserrate Winsett  ,321930.0
+4291.0,Avis Budget Group,www.avisbudgetgroup.com,47.94211432,-97.44176768,Tamara Tuma,321940.0
+4301.0,Broadcom,www.broadcom.com,48.77516543,-111.6841356,Sung Shields,321950.0
+4311.0,American Family Insurance Group,www.amfam.com,48.52718067,-117.309281,Jodee Lupo,321930.0
+4321.0,Level 3 Communications,www.level3.com,48.41996136,-106.4218871,Serafina Banda,321940.0
+4331.0,Tenneco,www.tenneco.com,48.871632,-103.3255778,Angeles Crusoe,321910.0
+4341.0,United Natural Foods,www.unfi.com,48.44337705,-119.6476043,Savanna Gayman,321920.0
+4351.0,Dean Foods,www.deanfoods.com,48.10509992,-99.30900475,Anabel Haskell,321910.0
+4361.0,Campbell Soup,www.campbellsoupcompany.com,47.395458,-93.55779392,Barrie Omega,321920.0
+4371.0,Mohawk Industries,www.mohawkind.com,48.212557,-112.1902962,Kym Hagerman,321910.0
+4381.0,BorgWarner,www.borgwarner.com,46.415907,-102.495034,Jamel Mosqueda,321970.0
+4391.0,PVH,www.pvh.com,48.289588,-117.8890974,Parker Hoggan,321980.0
+4401.0,Ball,www.ball.com,47.400979,-111.3742663,Tuan Trainer,321990.0
+4411.0,O’Reilly Automotive,www.oreillyauto.com,45.73920354,-122.546881,Chantell Drescher,321970.0
+4421.0,Eversource Energy,www.eversource.com,47.2714805,-115.1222008,Paige Bartos,321980.0
+4431.0,Franklin Resources,www.franklinresources.com,47.46978342,-115.9493246,Dominique Favela,321970.0
+4441.0,Masco,www.masco.com,47.69038279,-120.3658719,Terrilyn Kesler,321980.0
+4451.0,Lithia Motors,www.lithia.com,48.78231411,-95.81781633,Nannie Brinkman,321960.0
+4461.0,KKR,www.kkr.com,47.55827022,-99.65238578,Buffy Azure,321970.0
+4471.0,Oneok,www.oneok.com,47.72596607,-116.7287046,Esta Engelhardt,321960.0
+4481.0,Newmont Mining,www.newmont.com,46.270894,-116.3841674,Khadijah Riemann,321970.0
+4491.0,PPL,www.pplweb.com,43.6365736,-97.3656528,Deanne Hertlein,321960.0
+4501.0,SpartanNash,www.spartannash.com,46.29753195,-84.5345367,Jewell Likes,321970.0
