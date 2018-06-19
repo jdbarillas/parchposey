@@ -3,4 +3,4 @@ library(readr)
 
 orders <- read_csv("data-raw/orders.csv")
 
-devtools::use_data(orders)
+devtools::use_data(orders, overwrite = TRUE)
